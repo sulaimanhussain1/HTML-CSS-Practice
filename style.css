@@ -1,0 +1,32 @@
+input[type = "text"]{
+    color: darkblue;
+}
+
+input[type = "text"]{
+    color: darkblue;
+}
+
+input[value = "Submit"]{
+    color: darkblue;
+}
+
+input[type = "button"]{
+    color: darkblue;
+}
+
+label {
+    color:cyan;
+}
+
+a[href $= ".com"]{
+    color: red;
+}
+
+
+a[href ^= "https"]{
+    color: red;
+}
+
+h2{
+    color: blue;
+}

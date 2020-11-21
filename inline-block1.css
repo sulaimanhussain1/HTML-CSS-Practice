@@ -1,0 +1,26 @@
+/* 
+a {
+    border: 3px solid black;
+    color: red;
+    margin: 50px;
+    padding: 50x;         overlapping
+    width: 500px;          no changes in inline element 
+    height: 500px;         no changes in inline element  
+
+
+} */
+
+
+ /* this is inline-block element*/  
+
+a {
+
+    border: 3px solid black;
+    color: red;
+    margin: 50px;
+    padding: 500x;        /* overlapping*/
+    width: 500px;        /*  no changes in inline element */ 
+    height: 500px;       /*  no changes in inline element  */
+
+
+}

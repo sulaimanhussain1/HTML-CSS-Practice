@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+}
+
+nav {
+    background-color: #cecece;
+    /* border: 2px solid red; */
+
+}
+h2 {
+    border-bottom: 2px groove black;
+}
+
+a{
+    color: #444;
+    text-decoration: none;
+}
+nav ul {
+    /* border: 2px solid green; */
+    padding: 0px;
+    text-align: center;
+}
+
+nav li {
+    margin: 10px 20px;
+    display: inline-block;
+    list-style: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    border-bottom: 1px solid black;
+}
+section{
+    margin-top:50px;
+}
